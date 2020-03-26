@@ -8,7 +8,7 @@
 
 body {
   background: #fff;
-  animation: background-mode 3s 3s forwards; 
+  animation: background-mode 3s 3s forwards;
 }
 
 
@@ -38,7 +38,7 @@ h1 {
   padding: 2px;
   opacity: 0;
   transform: translateX(400px) rotate(0);
-  animation: fade-list-item 4s 10s forwards;
+  animation: fade-list-item 4s 10.3s forwards;
 }
 
 /* regole caricamento */
